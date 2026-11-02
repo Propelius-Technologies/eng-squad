@@ -42,7 +42,7 @@ Request → Acceptance criteria → Size (S/M/L) → Plan work packages
 
 ### Option A: one-liner script
 ```bash
-git clone https://github.com/<you>/eng-squad.git
+git clone git@github.com:Propelius-Technologies/eng-squad.git
 cd eng-squad
 ./install.sh            # installs globally for Claude Code, Cursor and Codex
 ./install.sh --project /path/to/repo   # or into one repo instead
